@@ -1,0 +1,60 @@
+#banner{
+	background-image: url("https://5dwallpaper.com/wp-content/uploads/2017/07/pizza-wallpaper.jpg");
+	background-size: cover;
+	background-position: top center;
+}   
+   h1{
+      color: #F8C4D0;
+      font-size: 200px;
+    }
+    .piz{
+    	color:#FFF;
+    	background:url("image/pizzahutrewards-em-624200530.jpg")no-repeat center center;
+    	background-size: cover;
+    	-webkit-text-fill-color: transparent;
+    	-webkit-background-clip: text;
+
+
+    }
+ body {
+  background-color: #FA807B;
+}
+
+h2{
+	color:#F8C4D0;
+}
+
+.first{
+	color:#F8C4D0;
+}
+
+
+.v1{
+	color:#BC5367;
+}
+.v2{
+	color:#BC5367;
+}
+.c{
+	color:#BC5367;
+}
+.v3{
+	color:#BC5367;
+}
+.c2{
+	color:#BC5367;
+}
+.o{
+	color:#BC5367;
+}
+
+#bigbox{
+	display:flex;
+}
+
+.gif{
+	float:left;
+	margin-bottom:30px;
+}
+
+
